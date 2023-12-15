@@ -16,4 +16,6 @@ En zoals ik al zei: met dit spelletje leerde ik de absolute basis van Unity, zij
 - Hoe je lollige geluidjes toevoegt, en kunt vinden: https://freesound.org/ 
 - En hoe je een game kunt publishen op Github Pages (inclusief wat hackwerk via dit filmpje om hem fullscreen binnen de browser te krijgen: https://www.youtube.com/watch?v=N07t-1vCAqc)
 
+O ja, en uit de categorie "it's not a bug, it's a feature": je kunt nu zo vaak over een Harm heenrijden als je wilt en wordt ie gewoon opnieuw. In plaats van dit fixen zodat elke Harm maar 1x plat kan, heb ik dit er expres in gelaten, dat vond ik stiekem wel geinig ;-)
+
 Superleuk allemaal! Nu snel door naar de volgende game. Eens kijken of ik daar weer een leuke Harm-twist aan kan geven.
